@@ -4,7 +4,7 @@
 
 * 天气API接口：聚合数据
 
-* API接口返回的json数据格式
+* API接口返回的json数据格式如下：
 ```
 {
 	"reason":"successed!",
